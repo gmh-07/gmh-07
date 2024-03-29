@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">RCOEM Nagpur || Angular and Typescript Developer Intern @ Infosys || Virtual Cloud Intern @Microsoft || Physics Wallah || Web Development || Cloud Computing || 10.5K+ LinkedIn Family</h3>
+<h3 align="center">RCOEM Nagpur || Angular and Typescript Developer Intern @ Infosys || Virtual Cloud Intern @Microsoft || Physics Wallah || Web Development || Cloud Computing || 11.5K+ LinkedIn Family</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmh-07&label=Profile%20views&color=0e75b6&style=flat" alt="gmh-07" /> </p>
 
