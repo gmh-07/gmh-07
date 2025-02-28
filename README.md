@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">RCOEM Nagpur || Full Stack Developer Intern @ Infosys || Full Stack Developer @theimpressionists.shop || Physics Wallah || Web Development || Cloud Computing || 15.5K+ LinkedIn Family</h3>
+<h3 align="center">RCOEM Nagpur || Full Stack Developer Intern @ Infosys || Building AgenixSoft.in || Full Stack Developer @theimpressionists.shop || Physics Wallah || Web Development || Cloud Computing || 15.5K+ LinkedIn Family</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmh-07&label=Profile%20views&color=0e75b6&style=flat" alt="gmh-07" /> </p>
 
@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav hagone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav hagone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
